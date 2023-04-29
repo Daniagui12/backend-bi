@@ -1,0 +1,9 @@
+
+*.pyc
+/static/logic/datos/MLPClassifier.pkl
+/static/logic/datos/CountVectorizer.pkl
+/static/logic/secret/client_secret.txt
+/static/logic/secreto/client_secret.txt
+*.pyc
+/__pycache__/main.cpython-310.pyc
+/__pycache__/main.cpython-310.pyc
